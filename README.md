@@ -1,2 +1,3 @@
-# fluxrss
-Projet Fluxrss de BTS SIO 2 eme année avec Dina Belrhazi
+PROJET FLUX RSS
+
+NGABI ANOUAR / ANIS AMDOUNI SLAM 2 --> PROJET PERSONNEL ENCADREE
